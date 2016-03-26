@@ -1,28 +1,5 @@
 == README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
+Skynet is a silly name for a test project.
+Im attempting making a form of api but pure api from a rails app using the 
+rails-api gem to cut down the un-used functionality of the rails app
 <tt>rake doc:app</tt>.
